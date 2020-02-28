@@ -1,0 +1,11 @@
+C:\Users\Heliton\Source\Repos\NumerosPares\obj\Debug\netcoreapp3.1\NumerosPares.csprojAssemblyReference.cache
+C:\Users\Heliton\Source\Repos\NumerosPares\obj\Debug\netcoreapp3.1\NumerosPares.AssemblyInfoInputs.cache
+C:\Users\Heliton\Source\Repos\NumerosPares\obj\Debug\netcoreapp3.1\NumerosPares.AssemblyInfo.cs
+C:\Users\Heliton\Source\Repos\NumerosPares\bin\Debug\netcoreapp3.1\NumerosPares.exe
+C:\Users\Heliton\Source\Repos\NumerosPares\bin\Debug\netcoreapp3.1\NumerosPares.deps.json
+C:\Users\Heliton\Source\Repos\NumerosPares\bin\Debug\netcoreapp3.1\NumerosPares.runtimeconfig.json
+C:\Users\Heliton\Source\Repos\NumerosPares\bin\Debug\netcoreapp3.1\NumerosPares.runtimeconfig.dev.json
+C:\Users\Heliton\Source\Repos\NumerosPares\bin\Debug\netcoreapp3.1\NumerosPares.dll
+C:\Users\Heliton\Source\Repos\NumerosPares\bin\Debug\netcoreapp3.1\NumerosPares.pdb
+C:\Users\Heliton\Source\Repos\NumerosPares\obj\Debug\netcoreapp3.1\NumerosPares.dll
+C:\Users\Heliton\Source\Repos\NumerosPares\obj\Debug\netcoreapp3.1\NumerosPares.pdb
